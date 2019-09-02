@@ -1,3 +1,2 @@
 # netopt
-
-Course under network optimization in Gyeonsang Univ. 
+A gruadated class for network optimization in Gyeonsang Univ. 
